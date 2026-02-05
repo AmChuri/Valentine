@@ -18,7 +18,7 @@
 
     /* IMPORTANT FIXES */
     "verbatimModuleSyntax": false,
-    "allowImportingTsExtensions": false,
+    "allowImportingTsExtensions": true,
 
     /* Linting */
     "strict": true,
